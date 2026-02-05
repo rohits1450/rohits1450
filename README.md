@@ -7,7 +7,7 @@
 
 Glad to see you here!
 
-I’m an **App Developer & Machine Learning Engineer** passionate about building intelligent mobile applications and scalable financial systems. 🚀  
+I’m an **App Developer & Machine Learning Engineer** passionate about building intelligent mobile applications and scalable financial systems. 
 
 Currently focused on developing **AI-powered products, offline digital payment infrastructures, and smart city solutions** that solve real-world problems through technology.
 
