@@ -16,7 +16,8 @@ With a strong foundation in **DSA, Machine Learning, and Android Development**, 
 
 ## 🧠 Talking About Personal Stuff
 
-- 🛠 I’m currently building **AurisMeta : A Routing Metadata Privacy Software**  
+- 🛠 I’m currently building **AurisMeta : A Routing Metadata Privacy Software**
+- 🌐 Contributing to many **Open-Source Projects**
 - 🚀 Exploring **Deep Learning, Computer Vision & Digital Currency infra**  
 - 💬 Ask me about **App Dev, ML/DL, or Payment Tech**  
 - 📫 Reach me: **rohitselvam2006@gmail.com**
