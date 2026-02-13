@@ -1,6 +1,5 @@
 ## Hey there 👋, I'm Rohit Selvam!
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_jCla8uBMcDUb1HATq7Z5R6zHUdtt4Ia/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohits1450/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitselvam2006)
 
