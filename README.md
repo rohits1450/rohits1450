@@ -1,117 +1,83 @@
-## Hello World 👋, I'm Rohit Selvam!
+<div align="center">
+
+# Hey there ✦, I'm Rohit Selvam
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Mobile+Apps+%F0%9F%93%B1;Deep+Learning+%26+Computer+Vision+%F0%9F%A7%A0;Offline+CBDC+%26+Fintech+Systems+%F0%9F%92%B3;Smart+City+Solutions+%F0%9F%8F%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohits1450/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitselvam2006)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitselvam2006@gmail.com)
 
-
-Glad to see you here!
-
-I’m an **App Developer & Machine Learning Engineer** passionate about building intelligent mobile applications and scalable financial systems. 
-
-Currently focused on developing **AI-powered products, offline digital payment infrastructures, and smart city solutions** that solve real-world problems through technology.
-
-With a strong foundation in **DSA, Machine Learning, and Android Development**, I enjoy engineering systems that combine software, machine intelligence, and real-world deployment.
+</div>
 
 ---
 
-## 🧠 Talking About Personal Stuff
+## 🌊 About Me
+I build at the intersection of **machine intelligence, blockchain infra, and real-world deployment**, not just demos, but systems meant to actually work in the wild. My work spans adaptive computer vision, offline payment infrastructure, and privacy-preserving architectures.
 
-- 🛠 I’m currently contributing to many **Open-Source Projects**
-- 🚀 Exploring **Deep Learning, Computer Vision & Digital Currency infra**  
-- 💬 Ask me about **App Dev, ML/DL, or Payment Tech**  
-- 📫 Reach me: **rohitselvam2006@gmail.com**
+I'm also a vibrant **open-source contributor** because the best way to grow is to build in public, with people smarter than you.
+
+> ⚡ Oh, and I write OCaml and Haskell for fun. Yes, voluntarily.
+
+📫 [rohitselvam2006@gmail.com](mailto:rohitselvam2006@gmail.com)
 
 ---
 
 ## 🧰 Languages & Tools
 
-<h3>📱 App Development</h3>
-
 <table>
-<tr>
-<td align="center">
-<a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br>Android
-</a>
-</td>
-
-<td align="center">
-<a href="https://kotlinlang.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/><br>Kotlin
-</a>
-</td>
-
-<td align="center">
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br>Firebase
-</a>
-</td>
-</tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>📱 App Development</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>🧠 ML & AI</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>🌐 Web & Backend</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>⛓️ Blockchain</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>🗄️ Databases</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>☁️ Cloud & DevOps</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>🖥️ Languages</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=py,cpp,java,kotlin,ts,js,solidity,haskell,ocaml" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h3>🧠 Machine Learning & Deep Learning</h3>
+<div align="center">
 
-<table>
-<tr>
-<td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</a></td>
-<td align="center"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br>PyTorch</a></td>
-<td align="center"><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow</a></td>
-<td align="center"><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/><br>OpenCV</a></td>
-<td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-Learn</a></td>
-<td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</a></td>
-<td align="center"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>Seaborn</a></td>
-</tr>
-</table>
+![](https://img.shields.io/badge/⚽%20Great%20teams%20don't%20just%20run%20fast.-They%20run%20smart.%20So%20does%20good%20code.-ffffff?style=for-the-badge&labelColor=000000)
 
----
-
-<h3>🌐 Web & Backend</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML5</a></td>
-<td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS3</a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</a></td>
-<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</a></td>
-<td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React</a></td>
-<td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>NodeJS</a></td>
-<td align="center"><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express</a></td>
-<td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django</a></td>
-</tr>
-</table>
-
----
-
-<h3>🗄️ Databases</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB</a></td>
-<td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</a></td>
-<td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br>PostgreSQL</a></td>
-<td align="center"><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br>SQLite</a></td>
-<td align="center"><a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40"/><br>Cassandra</a></td>
-</tr>
-</table>
-
----
-
-<h3>☁️ Cloud & DevOps</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br>AWS</a></td>
-<td align="center"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br>GCP</a></td>
-<td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker</a></td>
-<td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/><br>Kubernetes</a></td>
-</tr>
-</table>
-
----
+</div>
 
 
 
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
