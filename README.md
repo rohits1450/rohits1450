@@ -2,7 +2,7 @@
 
 # Hey there ✦, I'm Rohit Selvam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Mobile+Apps+%F0%9F%93%B1;Deep+Learning+%26+Computer+Vision+%F0%9F%A7%A0;Offline+CBDC+%26+Fintech+Systems+%F0%9F%92%B3;Smart+City+Solutions+%F0%9F%8F%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+Mobile+Apps;Open+Source+Contributor;Deep+Learning+%26+Computer+Vision;Offline+CBDC+%26+Fintech+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohits1450/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitselvam2006)
