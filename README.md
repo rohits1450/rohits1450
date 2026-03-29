@@ -27,43 +27,43 @@ I'm also a vibrant **open-source contributor** because the best way to grow is t
 
 <table>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>📱 App Development</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> App Development</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>🧠 ML & AI</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> ML & AI</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>🌐 Web & Backend</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> Web & Backend</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>⛓️ Blockchain</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> Blockchain</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>🗄️ Databases</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> Databases</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>☁️ Cloud & DevOps</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> Cloud & DevOps</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>🖥️ Languages</b></td>
+    <td style="padding: 10px 20px; white-space: nowrap"><b> Languages</b></td>
     <td style="padding: 10px 20px">
       <img src="https://skillicons.dev/icons?i=py,cpp,java,kotlin,ts,js,solidity,haskell,ocaml" />
     </td>
