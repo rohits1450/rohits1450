@@ -17,7 +17,7 @@ I build at the intersection of **machine intelligence, blockchain infra, and rea
 
 I'm also a vibrant **open-source contributor** because the best way to grow is to build in public, with people smarter than you.
 
->  Oh, and I write OCaml and Haskell for fun. Yes, voluntarily.
+>  I use arch, btw.
 
 📫 [rohitselvam2006@gmail.com](mailto:rohitselvam2006@gmail.com)
 
