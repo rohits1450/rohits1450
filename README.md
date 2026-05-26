@@ -2,7 +2,7 @@
 
 # Hey there ✦, I'm Rohit Selvam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+Mobile+Apps;Open+Source+Contributor;Deep+Learning+%26+Computer+Vision;Offline+CBDC+%26+Fintech+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Blockchain+and+Software+Developer;Open+Source+Contributor;Building+Defi+Apps;Deep+Learning+%26+Computer+Vision;Offline+CBDC+%26+Fintech+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohits1450/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitselvam2006)
@@ -15,7 +15,7 @@
 ## 🌊 About Me
 I build at the intersection of **machine intelligence, blockchain infra, and real-world deployment**, not just demos, but systems meant to actually work in the wild. My work spans adaptive computer vision, offline payment infrastructure, and privacy-preserving architectures.
 
-I'm also a vibrant **open-source contributor** because the best way to grow is to build in public, with people smarter than you.
+I'm a vibrant **open-source contributor**, because the best way to grow is to build in public, with people experienced than you.
 
 >  I use arch, btw.
 
