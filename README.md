@@ -47,7 +47,7 @@ I'm a vibrant **open-source contributor**, because the best way to grow is to bu
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Blockchain</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
+<img src="https://skillicons.dev/icons?i=solidity,ipfs,ethereum,hardhat,foundry,chainlink" />    
     </td>
   </tr>
   <tr>
