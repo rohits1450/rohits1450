@@ -35,13 +35,13 @@ I'm a vibrant **open-source contributor**, because the best way to grow is to bu
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> ML & AI</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,fastapi,flask" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Web & Backend</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,flask,go,java" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,flask" />
     </td>
   </tr>
   <tr>
