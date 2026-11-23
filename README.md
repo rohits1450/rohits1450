@@ -29,43 +29,43 @@ I'm a vibrant **open-source contributor**, because the best way to grow is to bu
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> App Development</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
+      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> ML & AI</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,fastapi,flask" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Web & Backend</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,flask,go,java" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Blockchain</b></td>
     <td style="padding: 10px 20px">
-<img src="https://skillicons.dev/icons?i=solidity,ipfs,ethereum,hardhat,foundry,chainlink" />    
+      <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Databases</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Cloud & DevOps</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,linux" />
     </td>
   </tr>
   <tr>
     <td style="padding: 10px 20px; white-space: nowrap"><b> Languages</b></td>
     <td style="padding: 10px 20px">
-      <img src="https://skillicons.dev/icons?i=py,cpp,java,kotlin,ts,js,solidity,haskell,ocaml" />
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,go,lua" />
     </td>
   </tr>
 </table>
